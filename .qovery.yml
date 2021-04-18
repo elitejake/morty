@@ -1,0 +1,11 @@
+---
+application:
+  name: "morty"
+  project: "Searx"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-morty"
+  routes:
+  - application_name: "morty"
+    paths:
+    - "/*"
