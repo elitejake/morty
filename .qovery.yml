@@ -1,7 +1,7 @@
 ---
 application:
   name: "morty"
-  project: "Test"
+  project: "Searx"
   organization: "QoveryCommunity"
 routers:
 - name: "main-morty"
